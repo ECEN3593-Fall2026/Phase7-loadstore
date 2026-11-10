@@ -183,9 +183,9 @@ Submit the URL in canvas as the submission when you are completed.
 
 ### Rubric:
 
-15 points total
+10 points total
 
-phase7a-provided - 10pt, phase7b-provided - 4 points, phase 7c-provided - 1 point.
+phase7a-provided - 6pt, phase7b-provided - 3 points, phase 7c-provided - 1 point.
 
 We will run the test cases we provide.  If you get the tests correct, you will get full credit for that part.  So, you can know correctness before submission.  We will not add hidden tests.  Note: you will immediately get a 0 for the entire Phase (not just the part) if you try to game this -- like outputting some known correct output without correctly operating code.  We can easily check for this, so don't do it. 
 
